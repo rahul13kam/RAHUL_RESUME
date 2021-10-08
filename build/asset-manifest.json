@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RAHUL_RESUME/static/css/main.f1dfb855.chunk.css",
+    "main.js": "/RAHUL_RESUME/static/js/main.1562ca27.chunk.js",
+    "main.js.map": "/RAHUL_RESUME/static/js/main.1562ca27.chunk.js.map",
+    "runtime-main.js": "/RAHUL_RESUME/static/js/runtime-main.615ba5f9.js",
+    "runtime-main.js.map": "/RAHUL_RESUME/static/js/runtime-main.615ba5f9.js.map",
+    "static/css/2.d88a60dc.chunk.css": "/RAHUL_RESUME/static/css/2.d88a60dc.chunk.css",
+    "static/js/2.3a3c05eb.chunk.js": "/RAHUL_RESUME/static/js/2.3a3c05eb.chunk.js",
+    "static/js/2.3a3c05eb.chunk.js.map": "/RAHUL_RESUME/static/js/2.3a3c05eb.chunk.js.map",
+    "index.html": "/RAHUL_RESUME/index.html",
+    "precache-manifest.2fa6de273cda2111c4e4a123d7b028cf.js": "/RAHUL_RESUME/precache-manifest.2fa6de273cda2111c4e4a123d7b028cf.js",
+    "service-worker.js": "/RAHUL_RESUME/service-worker.js",
+    "static/css/2.d88a60dc.chunk.css.map": "/RAHUL_RESUME/static/css/2.d88a60dc.chunk.css.map",
+    "static/css/main.f1dfb855.chunk.css.map": "/RAHUL_RESUME/static/css/main.f1dfb855.chunk.css.map",
+    "static/js/2.3a3c05eb.chunk.js.LICENSE.txt": "/RAHUL_RESUME/static/js/2.3a3c05eb.chunk.js.LICENSE.txt",
+    "static/media/person1.jpeg": "/RAHUL_RESUME/static/media/person1.f5ab562b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.615ba5f9.js",
+    "static/css/2.d88a60dc.chunk.css",
+    "static/js/2.3a3c05eb.chunk.js",
+    "static/css/main.f1dfb855.chunk.css",
+    "static/js/main.1562ca27.chunk.js"
+  ]
+}
