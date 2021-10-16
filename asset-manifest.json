@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Rahul_resume/static/css/main.f1dfb855.chunk.css",
-    "main.js": "/Rahul_resume/static/js/main.1562ca27.chunk.js",
-    "main.js.map": "/Rahul_resume/static/js/main.1562ca27.chunk.js.map",
-    "runtime-main.js": "/Rahul_resume/static/js/runtime-main.f0a25eb5.js",
-    "runtime-main.js.map": "/Rahul_resume/static/js/runtime-main.f0a25eb5.js.map",
-    "static/css/2.d88a60dc.chunk.css": "/Rahul_resume/static/css/2.d88a60dc.chunk.css",
-    "static/js/2.3a3c05eb.chunk.js": "/Rahul_resume/static/js/2.3a3c05eb.chunk.js",
-    "static/js/2.3a3c05eb.chunk.js.map": "/Rahul_resume/static/js/2.3a3c05eb.chunk.js.map",
-    "index.html": "/Rahul_resume/index.html",
-    "precache-manifest.78d04e25f57035cda38a33ea7d3e6ca3.js": "/Rahul_resume/precache-manifest.78d04e25f57035cda38a33ea7d3e6ca3.js",
-    "service-worker.js": "/Rahul_resume/service-worker.js",
-    "static/css/2.d88a60dc.chunk.css.map": "/Rahul_resume/static/css/2.d88a60dc.chunk.css.map",
-    "static/css/main.f1dfb855.chunk.css.map": "/Rahul_resume/static/css/main.f1dfb855.chunk.css.map",
-    "static/js/2.3a3c05eb.chunk.js.LICENSE.txt": "/Rahul_resume/static/js/2.3a3c05eb.chunk.js.LICENSE.txt",
-    "static/media/person1.jpeg": "/Rahul_resume/static/media/person1.f5ab562b.jpeg"
+    "main.css": "/rahul_resume/static/css/main.f1dfb855.chunk.css",
+    "main.js": "/rahul_resume/static/js/main.b7cdbc7b.chunk.js",
+    "main.js.map": "/rahul_resume/static/js/main.b7cdbc7b.chunk.js.map",
+    "runtime-main.js": "/rahul_resume/static/js/runtime-main.05ba398a.js",
+    "runtime-main.js.map": "/rahul_resume/static/js/runtime-main.05ba398a.js.map",
+    "static/css/2.2623327d.chunk.css": "/rahul_resume/static/css/2.2623327d.chunk.css",
+    "static/js/2.7f7d94ad.chunk.js": "/rahul_resume/static/js/2.7f7d94ad.chunk.js",
+    "static/js/2.7f7d94ad.chunk.js.map": "/rahul_resume/static/js/2.7f7d94ad.chunk.js.map",
+    "index.html": "/rahul_resume/index.html",
+    "precache-manifest.1371327958f2f657edd2717e94bb880f.js": "/rahul_resume/precache-manifest.1371327958f2f657edd2717e94bb880f.js",
+    "service-worker.js": "/rahul_resume/service-worker.js",
+    "static/css/2.2623327d.chunk.css.map": "/rahul_resume/static/css/2.2623327d.chunk.css.map",
+    "static/css/main.f1dfb855.chunk.css.map": "/rahul_resume/static/css/main.f1dfb855.chunk.css.map",
+    "static/js/2.7f7d94ad.chunk.js.LICENSE.txt": "/rahul_resume/static/js/2.7f7d94ad.chunk.js.LICENSE.txt",
+    "static/media/person1.jpeg": "/rahul_resume/static/media/person1.f5ab562b.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0a25eb5.js",
-    "static/css/2.d88a60dc.chunk.css",
-    "static/js/2.3a3c05eb.chunk.js",
+    "static/js/runtime-main.05ba398a.js",
+    "static/css/2.2623327d.chunk.css",
+    "static/js/2.7f7d94ad.chunk.js",
     "static/css/main.f1dfb855.chunk.css",
-    "static/js/main.1562ca27.chunk.js"
+    "static/js/main.b7cdbc7b.chunk.js"
   ]
 }
