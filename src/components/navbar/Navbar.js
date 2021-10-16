@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 //import 'materialize-css/dist/css/materialize.min.css';
-import { HashLink as Link } from 'react-router-hash-link';
+// import { Hasha as a } from 'react-router-hash-a';
 
 export default class Navbar extends Component {
 	render() {
@@ -9,37 +9,43 @@ export default class Navbar extends Component {
 				<nav className='light-blue darken-4'>
 					<div className='container'>
 						<div className='nav-wrapper'>
-							<Link to='/' className='brand-logo'>
+							<a href='#' className='brand-logo'>
 								My CV
-							</Link>
-							<Link to='/' data-target='side-nav' className='sidenav-trigger'>
+							</a>
+							<a href='#' data-target='side-nav' className='sidenav-trigger'>
+							{/* <a href='/' data-target='side-nav' className='sidenav-trigger'> */}
 								<i className='material-icons'>menu</i>
-							</Link>
+							</a>
 							<ul className='right hide-on-med-and-down'>
 								<li>
-									<Link to='/'>
+									<a href='#'>
+									{/* <a href='/'> */}
 										<i class='fas fa-home'></i> Home
-									</Link>
+									</a>
 								</li>
 								<li>
-									<Link to='/skills'>
+								    <a href='#'>
+									{/* <a href='/skills'> */}
 										<i class='fas fa-copy'></i> Skills
-									</Link>
+									</a>
 								</li>
 								<li>
-									<Link to='/experiences'>
+									<a href='#'>
+									{/* <a href='/experiences'> */}
 										<i class='fas fa-id-badge'></i> Experiences
-									</Link>
+									</a>
 								</li>
 								<li>
-									<Link to='/educations'>
+									{/* <a href='/educations'> */}
+									<a href='#'>
 										<i class='fas fa-graduation-cap'></i> Educations
-									</Link>
+									</a>
 								</li>
 								<li>
-									<Link to='/portfolios'>
+									<a href='#'>
+									{/* a href='/portfolios'> */}
 										<i class='fas fa-address-card'></i> Portfolios
-									</Link>
+									</a>
 								</li>
 							</ul>
 						</div>
@@ -47,29 +53,34 @@ export default class Navbar extends Component {
 				</nav>
 				<ul className='sidenav' id='side-nav'>
 					<li>
-						<Link to='/'>
+						<a href='#'>
+						{/* <a href='/'> */}
 							<i class='fas fa-home'></i> Home
-						</Link>
+						</a>
 					</li>
 					<li>
-						<Link to='/skills'>
+						<a href='#'>
+						{/* a href='/skills'> */}
 							<i class='fas fa-copy'></i> Skills
-						</Link>
+						</a>
 					</li>
 					<li>
-						<Link to='/experiences'>
+						<a href='#'>
+						{/* <a href='/experiences'> */}
 							<i class='fas fa-id-badge'></i> Experiences
-						</Link>
+						</a>
 					</li>
 					<li>
-						<Link to='/educations'>
+						<a href='#'>
+						{/* <a href='/educations'> */}
 							<i class='fas fa-graduation-cap'></i> Educations
-						</Link>
+						</a>
 					</li>
 					<li>
-						<Link to='/portfolios'>
+						<a href='#'>
+						{/* <a href='/portfolios'> */}
 							<i class='fas fa-address-card'></i> Portfolios
-						</Link>
+						</a>
 					</li>
 				</ul>
 			</>

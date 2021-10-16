@@ -1,5 +1,5 @@
 import React from 'react';
-// import { HashLink as Link } from 'react-router-hash-link';
+// import { Hasha as a } from 'react-router-hash-a';
 
 export default function Educations() {
 	return (
@@ -22,42 +22,46 @@ export default function Educations() {
 								<td>PG-Diploma</td>
 								<td>CDAC Hyderabad</td>
 								<td>2021</td>
-								{/* <td>
-									<Link to='/LINK' class='btn blue lighten-2'>
+								<td>
+									{/* <a href='/a' class='btn blue lighten-2'> */}
+									<a href='#' class='btn blue lighten-2'>
 										View
-									</Link>
-								</td> */}
+									</a>
+								</td>
 							</tr>
 							<tr>
 								<td>Bachelor of Engineering</td>
 								<td>Nagpur University</td>
 								<td>2018</td>
 						
-								{/* <td>
-									<Link to='/details' class='btn blue lighten-2'>
+								<td>
+									{/* <a href='/details' class='btn blue lighten-2'> */}
+									<a href='#' class='btn blue lighten-2'>
 										View
-									</Link>
-								</td> */}
+									</a>
+								</td>
 							</tr>
 							<tr>
 								<td>HSC</td>
 								<td>Maharastra Board</td>
 								<td>2014</td>
-								{/* <td>
-									<Link to='/details' class='btn blue lighten-2'>
+								<td>
+									{/* <a href='/details' class='btn blue lighten-2'> */}
+									<a href='#' class='btn blue lighten-2'>
 										View
-									</Link>
-								</td> */}
+									</a>
+								</td>
 							</tr>
 							<tr>
 								<td>SSC</td>
 								<td>CBSE</td>
 								<td>2012</td>
-								{/* <td>
-									<Link to='/details' class='btn blue lighten-2'>
+								<td>
+									{/* <a href='/details' class='btn blue lighten-2'> */}
+									<a href='#' class='btn blue lighten-2'>
 										View
-									</Link>
-								</td> */}
+									</a>
+								</td>
 							</tr>
 						</tbody>
 					</table>

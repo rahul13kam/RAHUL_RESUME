@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashLink as Link } from 'react-router-hash-link';
+// import { Hasha as a } from 'react-router-hash-a';
 // import ImgProfile from '../../../images/person1.jpeg';
 import ImgProfile from '../../../images/person1.jpeg';
 
@@ -9,9 +9,9 @@ export default function Profile() {
 			<div className='card'>
 				<div className='card-image'>
 					<img className='activator' src={ImgProfile} alt='Rahul Kamble' />
-					<Link className='btn-floating halfway-fab waves-effect waves-light red'>
+					<a className='btn-floating halfway-fab waves-effect waves-light red'>
 						<i className='material-icons activator'>more_vert</i>
-					</Link>
+					</a>
 				</div>
 				<div className='card-content'>
 					<span className='card-title activator grey-text text-darken-4'>
